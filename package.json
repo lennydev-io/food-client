@@ -1,0 +1,21 @@
+{
+  "name": "bucephalus-webapp",
+  "version": "0.1.0",
+  "description": "Highly structured fundation focused on best practices and solid principles.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Lenny Mendez <info@lennydev.io>",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "9.5.5",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-typography": "^0.16.20",
+    "styled-components": "^5.2.0",
+    "typography": "^0.16.21"
+  }
+}
